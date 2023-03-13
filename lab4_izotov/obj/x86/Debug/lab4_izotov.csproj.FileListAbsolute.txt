@@ -1,0 +1,9 @@
+C:\Users\why_t\Downloads\variant_1\lab4_izotov\bin\Debug\lab4_izotov.exe
+C:\Users\why_t\Downloads\variant_1\lab4_izotov\bin\Debug\lab4_izotov.pdb
+C:\Users\why_t\Downloads\variant_1\lab4_izotov\obj\x86\Debug\lab4_izotov.csproj.AssemblyReference.cache
+C:\Users\why_t\Downloads\variant_1\lab4_izotov\obj\x86\Debug\lab4.MainForm.resources
+C:\Users\why_t\Downloads\variant_1\lab4_izotov\obj\x86\Debug\lab4_izotov.Properties.Resources.resources
+C:\Users\why_t\Downloads\variant_1\lab4_izotov\obj\x86\Debug\lab4_izotov.csproj.GenerateResource.cache
+C:\Users\why_t\Downloads\variant_1\lab4_izotov\obj\x86\Debug\lab4_izotov.csproj.CoreCompileInputs.cache
+C:\Users\why_t\Downloads\variant_1\lab4_izotov\obj\x86\Debug\lab4_izotov.exe
+C:\Users\why_t\Downloads\variant_1\lab4_izotov\obj\x86\Debug\lab4_izotov.pdb
